@@ -6,7 +6,7 @@
 </h3>
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="left">
-<div align="right">
+<div align="left">
   <a  href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=EEE&random=false&width=435&lines=My+name+is+mohamed+salah;i%2Cm+frontend+developer" alt="Typing   SVG" /></a>
 </div>
   
