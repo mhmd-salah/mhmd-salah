@@ -35,3 +35,6 @@ _=>"hello world"
 [![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,sass,js,ts,react,redux,next,gulp,npm,git,github,vscode)](https://skillicons.dev)
 <br/>
 </div>
+
+![snake animation](https://github.com/<seu mhmd-salah>/<seu mhmd-salah>/blob/output/github-contribution-grid-snake2.svg)
+
