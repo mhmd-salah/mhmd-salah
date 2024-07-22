@@ -1,3 +1,10 @@
+# Welcome to My GitHub Profile!
+
+<!-- Use the following HTML to add the image with a tooltip -->
+<a href="https://github.com/mhmd-salah" title="hello dear">
+  <img src="https://avatars.githubusercontent.com/mhmd-salah" alt="Profile Image" width="200" height="200">
+</a>
+
 <h3 align="left" color="0eb6f2">
   <span >Hello World </span><!--   <img  src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> -->
 </h3><!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
