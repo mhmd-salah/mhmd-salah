@@ -28,7 +28,7 @@ _=>"hello world"
 
 <div  align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=cs,java,html,css,tailwind,sass,js,ts,react,redux,next,npm,yarn,git,github,vscode,postman)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,html,css,tailwind,sass,js,ts,react,redux,next,npm,yarn,git,github,vscode,postman)](https://skillicons.dev)
 <br/>
 </div>
 
