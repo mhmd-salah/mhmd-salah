@@ -4,6 +4,10 @@
 <p align="left">
 <div align="left">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6cc644&random=false&width=435&lines=i'm+mohamed+salah;i'm+frontend+devleoper+%5BNextjs%5D" alt="Typing SVG" /></a>
+
+![](https://github-stats-alpha.vercel.app/api?username=mhmd-salah&cc=22272e&tc=37BCF6&ic=fff&bc=0000)
+
+###
 </div>
 <div>
 <h3>Brief about me</h3>
