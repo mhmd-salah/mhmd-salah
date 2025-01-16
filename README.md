@@ -42,6 +42,10 @@ _=>"hello world"
 <br/>
 </div>
 
+###  Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/mhmd-salah)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:dev.mhmdsalah@gmail.com)
 
 
 ![snake gif](https://github.com/mhmd-salah/mhmd-salah/blob/output/github-contribution-grid-snake.gif)
