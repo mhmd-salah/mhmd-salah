@@ -38,7 +38,7 @@ _=>"hello world"
 
 <div  align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=cs,html,css,tailwind,sass,js,nodejs,ts,react,styledcomponents,redux,next,npm,git,github,vscode,postman)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,html,css,tailwind,sass,js,nodejs,ts,react,styledcomponents,redux,next,npm,git,github,vscode,postman,linux)](https://skillicons.dev)
 <br/>
 </div>
 
@@ -46,7 +46,4 @@ _=>"hello world"
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/mhmd-salah)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:dev.mhmdsalah@gmail.com)
-
-
-![snake gif](https://github.com/mhmd-salah/mhmd-salah/blob/output/github-contribution-grid-snake.gif)
 
